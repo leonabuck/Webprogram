@@ -24,4 +24,4 @@
   </div>
 </nav>
 
-  <img src="64348106-28A9-4A40-9440-A0C59E603399.jpeg" alt="Home.png"
+  <img src="C6BD12BE-F9C4-4CF4-A80B-85675C931507.jpeg" alt="C6BD12BE-F9C4-4CF4-A80B-85675C931507.jpeg"
